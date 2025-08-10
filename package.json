@@ -1,0 +1,13 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "A simple Rock Paper Scissors game",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "dev": "live-server --port=3000 --open=/"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
